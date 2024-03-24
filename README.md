@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rushikesh
-- 🧠 I’m currently learning Java Development
+- 🧠 I’m currently Working At Girmiti Software Pvt. Ltd. 
 - ✉️ You can contact me at rushilande999@gmail.com
 - 🤝 I'm open to collaborating on Backend projects
  
