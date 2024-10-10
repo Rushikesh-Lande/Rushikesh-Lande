@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rushikesh
 - 🧠 I’m currently Working At Girmiti Software Pvt. Ltd. 
-- ✉️ You can contact me at rushilande999@gmail.com
+- ✉️ You can contact me at rushikeshlande999@gmail.com
 - 🤝 I'm open to collaborating on Backend projects
  
 
